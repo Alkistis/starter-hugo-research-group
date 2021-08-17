@@ -1,5 +1,5 @@
 ---
-title: Richard Hendricks Wins First Place in the Wowchemy Prize
+title: Members of the group participate in foreground subtraction challenge
 date: 2021-08-17T13:08:29.092Z
 image:
   filename: featured.jpg
