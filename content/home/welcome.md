@@ -4,7 +4,7 @@ widget_id: welcome
 headless: true
 weight: 10
 title: ""
-subtitle: Cosmology with Radio and Optical Surveys
+subtitle: ""
 design:
   columns: "1"
   css_style: null
