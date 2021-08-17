@@ -1,11 +1,10 @@
 ---
-title: "Talk "
-abstract: |-
+title: Talk by Paula Soares
+abstract: |
   Gaussian Process Regression: An Application in Radio Cosmology
-  A talk by Paula Soares
 location: Cosmology from Home 2021
-date: 2030-06-01T13:00:00Z
-date_end: 2030-06-01T15:00:00Z
+date: 2030-06-01T13:00:00.000Z
+date_end: 2030-06-01T15:00:00.000Z
 all_day: false
 event: Cosmology from Home 2021
 event_url: https://www.youtube.com/watch?v=PkUfG2yKSPA
