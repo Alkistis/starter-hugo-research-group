@@ -9,6 +9,7 @@ external_link: https://github.com/IntensityTools
 links:
   - url: https://github.com/IntensityTools/MultipoleExpansion
     icon_pack: fas
+    name: MultipoleExpansion
 image:
   filename: intensitytools.png
   focal_point: Smart
