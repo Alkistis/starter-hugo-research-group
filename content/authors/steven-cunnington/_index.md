@@ -16,7 +16,9 @@ organizations:
   - name: "Queen Mary University of London "
     url: ""
 education:
-  courses: []
+  courses:
+    - course: PhD in Physics
+      institution: University of Portsmouth
 superuser: true
 user_groups:
   - Researchers
