@@ -6,4 +6,4 @@ draft: false
 image:
   filename: featured.jpg
 ---
-Members of the group have helped perform the first blind foreground subtraction challenge for neutral hydrogen intensity mapping with MeerKAT and the SKA, using state-of-the-art simulations. The paper has been posted on the arXiv, link [here]([here](https://arxiv.org/abs/2107.10814)).
+Members of the group have helped perform the first blind foreground subtraction challenge for neutral hydrogen intensity mapping with MeerKAT and the SKA, using state-of-the-art simulations. The paper has been posted on the arXiv (click for link).
