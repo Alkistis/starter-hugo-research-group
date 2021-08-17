@@ -8,7 +8,7 @@ featured: false
 external_link: https://github.com/IntensityTools
 links:
   - url: https://github.com/IntensityTools/MultipoleExpansion
-    icon_pack: fas
+    icon_pack: far
     name: MultipoleExpansion
 image:
   filename: intensitytools.png
