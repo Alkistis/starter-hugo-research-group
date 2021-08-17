@@ -2,8 +2,7 @@
 title: Steven Cunnington
 role: Postdoctoral Researcher
 avatar_filename: avatar.jpg
-bio: Radio cosmology theory, simulations, and data analysis. Heavily involved in
-  MeerKAT and the SKA.
+bio: ""
 interests: []
 social:
   - icon: twitter
@@ -16,9 +15,10 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Portsmouth
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 highlight_name: false
 email: ""
 ---
+Steven Cunnington is a postdoctoral research associate. He is working on radio intensity mapping theory, simulations, and parameter estimation analyses. He is heavily involved in MeerKAT and the SKA.
