@@ -24,8 +24,8 @@ organizations:
 education:
   courses:
     - course: PhD in Physics
-      institution: Nottingham University
-      year: 1953
+      institution: University of Nottingham
+      year: 2011
     - course: MSc in Elementary Particle Theory
       institution: University of Durham
       year: 2007
