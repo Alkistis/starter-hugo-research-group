@@ -6,6 +6,9 @@ date: 2021-08-17T17:30:10.344Z
 draft: false
 featured: false
 external_link: https://github.com/IntensityTools
+links:
+  - url: https://github.com/IntensityTools/MultipoleExpansion
+    icon_pack: ai
 image:
   filename: intensitytools.png
   focal_point: Smart
