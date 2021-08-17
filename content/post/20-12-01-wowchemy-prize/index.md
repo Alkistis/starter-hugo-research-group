@@ -1,6 +1,6 @@
 ---
 title: SKA foreground subtraction challenge
-subtitle: "[ArXiv pre-print](https://arxiv.org/abs/2107.10814)"
+subtitle: "[arXiv pre-print](https://arxiv.org/abs/2107.10814)"
 date: 2021-08-17T13:08:29.092Z
 draft: false
 image:
