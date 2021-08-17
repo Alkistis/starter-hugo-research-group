@@ -2,7 +2,7 @@
 widget: hero
 widget_id: welcome
 headless: true
-weight: 10
+weight: 0
 title: Dr Alkistis Pourtsidou
 subtitle: Cosmology with Radio and Optical Surveys
 design:
