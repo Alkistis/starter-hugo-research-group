@@ -11,4 +11,6 @@ education:
     - course: PhD in Physics
       institution: Trieste University
 superuser: true
+user_groups:
+  - Researchers
 ---
