@@ -28,7 +28,7 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-email: ""
+email: a.pourtsidou@qmul.ac.uk
 ---
 Alkistis Pourtsidou is a UKRI Future Leaders Fellow. Her research interests include:
 
@@ -37,3 +37,5 @@ Alkistis Pourtsidou is a UKRI Future Leaders Fellow. Her research interests incl
 * Modelling non-linear scales for galaxy clustering and weak gravitational lensing.
 * Large scale structure tests of gravity and inflation.
 * Interacting dark energy models.
+
+[List of publications from INSPIRE database](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20pourtsidou%2C%20alkistis)
