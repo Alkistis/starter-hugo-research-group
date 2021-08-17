@@ -1,6 +1,6 @@
 ---
 widget: hero
-widget_id: welcome-message
+widget_id: welcome
 headless: true
 weight: 0
 title: Dr Alkistis Pourtsidou
