@@ -1,6 +1,6 @@
 ---
 widget: blank
-widget_id: welcome
+widget_id: welcome-message
 headless: true
 weight: 0
 title: Dr Alkistis Pourtsidou
@@ -16,4 +16,4 @@ hero_media: welcome.jpg
 ---
 <br>
 
-Our **Research Group** is working on cosmology with large-scale structure.
+Welcome to our website. Our **Research Group** is working on cosmology with large-scale structure. We are excited about forthcoming radio intensity mapping surveys like MeerKAT and the SKA, as well as optical galaxy surveys like ESA's Euclid satellite mission.
