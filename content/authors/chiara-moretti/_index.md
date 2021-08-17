@@ -1,7 +1,7 @@
 ---
 title: Chiara Moretti
 role: Postdoctoral Researcher
-avatar_filename: avatar.jpg
+avatar_filename: ""
 social: []
 organizations:
   - name: Queen Mary University of London
