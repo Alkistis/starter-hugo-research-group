@@ -11,6 +11,7 @@ design:
   css_class: null
   background:
     image: portrait_of_a_swirling_galaxy.jpg
+    image_darken: 0
 hero_media: welcome.jpg
 ---
 <br>
