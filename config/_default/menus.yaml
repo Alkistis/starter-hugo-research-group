@@ -14,7 +14,7 @@ main:
     url: event
     weight: 40
   - name: Code releases
-    url: code #event
+    url: project/code 
     weight: 50
  # - name: Publications
  #   url: publication
