@@ -17,7 +17,7 @@ image:
 ---
 Our group is committed to transparency and reproducibility in science. We try to make most of our developed code public and we also try to be as user friendly as possible by providing pedagogical Jupyter notebooks. 
 
-Our public code is hosted on Github, please click the *Project Site* button to visit our collection of repositories. These include:
+Our public codes are hosted on Github:
 
 * [`Multipole Expansion`](https://github.com/IntensityTools/MultipoleExpansion) is a code for power spectrum analyses for neutral hydrogen intensity mapping experiments
 * [`IM-Fish`](https://github.com/IntensityTools/IM-Fish) is a code for Fisher Matrix forecasts for neutral hydrogen intensity mapping experiments and their cross-correlation with optical galaxy surveys
