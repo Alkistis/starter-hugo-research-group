@@ -7,9 +7,6 @@ bio: "My research interests include cosmology theory, simulations, and data
   the SKA, as well as ESA's Euclid satellite mission. "
 interests: []
 social:
-  - icon: envelope
-    icon_pack: fas
-    link: mailto:alkistis.pourtsidou@qmul.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/AlkistisPou
