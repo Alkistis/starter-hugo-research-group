@@ -1,8 +1,8 @@
 ---
 title: Chiara Moretti
 role: Postdoctoral Researcher
-avatar_filename: ""
-bio: Large-scale structure theory and simulations. Heavily involved in Euclid.
+avatar_filename: avatar.jpg
+bio: ""
 social: []
 organizations:
   - name: Queen Mary University of London
@@ -10,7 +10,8 @@ education:
   courses:
     - course: PhD in Physics
       institution: Trieste University
-superuser: true
+superuser: false
 user_groups:
   - Researchers
 ---
+Chiara Moretti is a postdoctoral research associate. She is working on large-scale structure theory, simulations, and parameter estimation analyses. She is heavily involved in ESA's Euclid satellite mission.
