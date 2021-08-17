@@ -6,7 +6,7 @@ weight: 10
 title: ""
 subtitle: ""
 design:
-  columns: "2"
+  columns: ""
   css_style: null
   css_class: null
   background:
