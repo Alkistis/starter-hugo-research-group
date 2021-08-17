@@ -8,6 +8,7 @@ date_end: 2021-07-19T15:30:00.000Z
 all_day: true
 links:
   - url: https://www.youtube.com/watch?v=PkUfG2yKSPA
+    icon_pack: ai
 event: Cosmology from Home 2021
 event_url: https://www.youtube.com/watch?v=PkUfG2yKSPA
 publishDate: 2021-08-17T15:12:28.350Z
