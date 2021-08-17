@@ -1,5 +1,5 @@
 ---
-widget: blank
+widget: hero
 widget_id: welcome-message
 headless: true
 weight: 0
