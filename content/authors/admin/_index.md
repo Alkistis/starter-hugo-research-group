@@ -2,9 +2,7 @@
 title: Alkistis Pourtsidou
 role: UKRI Future Leaders Fellow and Reader in Cosmology
 avatar_filename: avatar.jpg
-bio: "My research interests include cosmology theory, simulations, and data
-  analysis. I am heavily involved in international collaborations: MeerKAT and
-  the SKA, as well as ESA's Euclid satellite mission. "
+bio: ""
 interests: []
 social:
   - icon: twitter
