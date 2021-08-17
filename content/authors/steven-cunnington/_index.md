@@ -1,7 +1,7 @@
 ---
 title: Steven Cunnington
 role: Postdoctoral Researcher
-avatar_filename: cunnington.jpeg
+avatar_filename: avatar.jpg
 bio: Radio cosmology theory, simulations, and data analysis. Heavily involved in
   MeerKAT and the SKA.
 interests: []
