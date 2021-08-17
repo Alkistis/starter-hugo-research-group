@@ -1,73 +1,44 @@
 ---
-# Display name
-title: Nelson Bighetti
-
-# Is this the primary user of the site?
-superuser: true
-
-# Role/position
-role: Professor of Artificial Intelligence
-
-# Organizations/Affiliations
-organizations:
-- name: Stanford University
-  url: ""
-
-# Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
-
+title: Alkistis Pourtsidou
+role: UKRI Future Leaders Fellow and Reader in Cosmology
+avatar_filename: avatar.jpg
+bio: "My research interests include cosmology theory, simulations, and data
+  analysis. I am heavily involved in international collaborations: MeerKAT and
+  the SKA, as well as ESA's Euclid satellite mission. "
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
-
+  - Cosmology with radio and optical surveys
+  - mainly the Euclid satellite mission and MeerKAT/SKA
+social:
+  - icon: envelope
+    icon_pack: fas
+    link: mailto:alkistis.pourtsidou@qmul.ac.uk
+  - icon: twitter
+    icon_pack: fab
+    link: https://twitter.com/AlkistisPou
+  - icon: github
+    icon_pack: fab
+    link: https://github.com/Alkistis
+organizations:
+  - name: "Queen Mary University of London "
+    url: https://www.qmul.ac.uk/spa/people/academics/profiles/apourtsidou.html
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-
-# Social/Academic Networking
-# For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
-#   For an email link, use "fas" icon pack, "envelope" icon, and a link in the
-#   form "mailto:your-email@example.com" or "#contact" for contact widget.
-social:
-- icon: envelope
-  icon_pack: fas
-  link: 'mailto:test@example.org'
-- icon: twitter
-  icon_pack: fab
-  link: https://twitter.com/GeorgeCushen
-- icon: google-scholar
-  icon_pack: ai
-  link: https://scholar.google.co.uk/citations?user=sIwtMXoAAAAJ
-- icon: github
-  icon_pack: fab
-  link: https://github.com/gcushen
-# Link to a PDF of your resume/CV from the About widget.
-# To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
-
-# Enter email to display Gravatar (if Gravatar enabled in Config)
-email: ""
-
-# Highlight the author in author lists? (true/false)
-highlight_name: false
-
-# Organizational groups that you belong to (for People widget)
-#   Set this to `[]` or comment out if you are not using People widget.
+    - course: PhD in Physics
+      institution: Nottingham University
+      year: 1953
+    - course: MSc in Elementary Particle Theory
+      institution: University of Durham
+      year: 2007
+superuser: true
 user_groups:
-- Researchers
+  - Researchers
+highlight_name: false
+email: ""
 ---
+Alkistis Pourtsidou is a UKRI Future Leaders Fellow. Her research interests include:
 
-Nelson Bighetti is a professor of artificial intelligence at the Stanford AI Lab. His research interests include distributed robotics, mobile computing and programmable matter. He leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+* Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
+* Theory and observations of large-scale structure with Euclid, MeerKAT/SKA, and LSST.
+* Modelling non-linear scales for galaxy clustering and weak gravitational lensing.
+* Large scale structure tests of gravity and inflation.
+* Interacting dark energy models.
