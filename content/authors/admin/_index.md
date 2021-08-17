@@ -5,9 +5,7 @@ avatar_filename: avatar.jpg
 bio: "My research interests include cosmology theory, simulations, and data
   analysis. I am heavily involved in international collaborations: MeerKAT and
   the SKA, as well as ESA's Euclid satellite mission. "
-interests:
-  - Cosmology with radio and optical surveys
-  - mainly the Euclid satellite mission and MeerKAT/SKA
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
