@@ -17,5 +17,5 @@ Our public code is hosted on Github, please click the *Project Site* button to v
 
 * [`Multipole Expansion`](https://github.com/IntensityTools/MultipoleExpansion) is a code for power spectrum analyses for neutral hydrogen intensity mapping experiments
 * [`IM-Fish`](https://github.com/IntensityTools/IM-Fish) is a code for Fisher Matrix forecasts for neutral hydrogen intensity mapping experiments and their cross-correlation with optical galaxy surveys
-* ``[`IM-Inflation`](https://github.com/IntensityTools/IM-Inflation) is a code for Fisher Matrix forecasts for cosmological and inflationary parameters using intensity mapping, galaxy, and CMB surveys.
+* [`IM-Inflation`](https://github.com/IntensityTools/IM-Inflation) is a code for Fisher Matrix forecasts for cosmological and inflationary parameters using intensity mapping, galaxy, and CMB surveys.
 * [`gpr4im`](https://github.com/IntensityTools/gpr4im) is a code for using Gaussian Process Regression as a foreground removal technique for single-dish 21cm intensity mapping. See also [this talk recording](https://www.youtube.com/watch?v=PkUfG2yKSPA) by Paula Soares for an introduction to the science and the code!
