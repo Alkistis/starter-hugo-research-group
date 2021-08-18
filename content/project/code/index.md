@@ -43,4 +43,4 @@ Our public codes are hosted on Github:
 Other codes which we have helped develop with external collaborators include:
 
 * [`ReACT-with-neutrinos`](https://github.com/nebblu/ReACT/tree/react_with_neutrinos) is a first implementation of massive neutrinos into the basic ReACT code.
-* [`HyPk`](https://github.com/nebblu/HyPk) is a code based on the Gaussian Streaming Model (GSM), to calculate the quasi non-linear redshift space matter power spectrum multipoles.
+* [`HyPk`](https://github.com/nebblu/HyPk) is a code based on the Gaussian Streaming Model, to calculate the quasi non-linear redshift space matter power spectrum multipoles.
