@@ -33,7 +33,7 @@ email: a.pourtsidou@qmul.ac.uk
 * Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
 * Theory and observations of large-scale structure with Euclid, MeerKAT/SKA, and LSST.
 * Modelling non-linear scales for galaxy clustering and weak gravitational lensing.
-* Large scale structure tests of gravity and inflation.
+* Tests of dark energy, gravity and inflation with combined large-scale structure probes.
 * Interacting dark energy models.
 
 ### Publications
