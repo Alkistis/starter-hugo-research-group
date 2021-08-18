@@ -5,6 +5,6 @@ date: 2021-08-18T07:20:58.906Z
 summary: ""
 draft: false
 image:
-  filename: ide.png
+  filename: featured.png
 ---
 Pedro Carrilho and Chiara Moretti have led a paper on interacting dark energy from redshift-space galaxy clustering. The paper has been posted on the arXiv.
