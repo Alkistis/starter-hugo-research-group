@@ -10,6 +10,15 @@ links:
   - url: https://github.com/IntensityTools/MultipoleExpansion
     icon_pack: fas
     name: MultipoleExpansion
+  - url: https://github.com/IntensityTools/IM-Fish
+    name: IM-Fish
+    icon_pack: fas
+  - url: https://github.com/IntensityTools/IM-Inflation
+    name: IM-Inflation
+    icon_pack: fas
+  - url: https://github.com/IntensityTools/gpr4im
+    name: gpr4im
+    icon_pack: fas
 image:
   filename: intensitytools.png
   focal_point: Smart
