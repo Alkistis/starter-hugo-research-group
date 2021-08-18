@@ -1,6 +1,6 @@
 ---
 title: Pedro Carrilho
-role: Postdoctoral Research Associate
+role: Postdoctoral Researcher
 avatar_filename: avatar.png
 social: []
 organizations:
