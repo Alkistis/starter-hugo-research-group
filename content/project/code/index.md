@@ -2,7 +2,7 @@
 title: Code
 subtitle: Collection of open source codes and simulated data products for the
   analysis of radio intensity mapping and optical galaxy datasets.
-date: 2021-08-17T17:30:10.344Z
+date: 2021-08-18T06:58:55.201Z
 draft: false
 featured: false
 external_link: https://github.com/IntensityTools
@@ -18,6 +18,12 @@ links:
     icon_pack: fas
   - url: https://github.com/IntensityTools/gpr4im
     name: gpr4im
+    icon_pack: fas
+  - url: https://github.com/nebblu/ReACT/tree/react_with_neutrinos
+    name: ReACT-with-neutrinos
+    icon_pack: fas
+  - url: https://github.com/nebblu/HyPk
+    name: HyPk
     icon_pack: fas
 image:
   filename: intensitytools.png
@@ -35,4 +41,5 @@ Our public codes are hosted on Github:
 
 Other codes which we have helped develop with external collaborators include:
 
-*
+* ``[`ReACT-with-neutrinos`](https://github.com/nebblu/ReACT/tree/react_with_neutrinos) is a first implementation of massive neutrinos into the basic ReACT code.
+* ``[`HyPk`](https://github.com/nebblu/HyPk) is a code based on the Gaussian Streaming Model (GSM), to calculate the quasi non-linear redshift space matter power spectrum multipoles.
