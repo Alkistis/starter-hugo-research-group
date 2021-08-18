@@ -42,10 +42,12 @@ email: a.pourtsidou@qmul.ac.uk
 
 ### Funding
 
-**UKRI Future Leaders Fellowship (PI):** Exploring the Universe with radio and optical galaxy surveys (~1,500,000 GBP)
+**PI for UKRI Future Leaders Fellowship:** *Exploring the Universe with radio and optical galaxy surveys* (1,468,286 GBP, 2019-2023)
 
-**STFC grant (PI):** Neutral Hydrogen Intensity mapping with MeerKAT (~250,000 GBP).
+**PI for STFC grant:** *Neutral Hydrogen Intensity mapping with MeerKAT* (258,000 GBP, 2019-2021).
 
-**GCRF development grant (Co-I):** SA-DISCNET: A collaborative data science training network across southern Africa and southern UK (~100,000 GBP).
+**Co-I for STFC departmental consolidated grant:** *Astronomy Research at Queen Mary 2020-2023; Project: Constraints on Dark Energy and Modified Gravity using Non-linear Structures in Cosmology (awarded 5% FTE and 3-year PDRA support, approx. 350,000 GBP)*.
 
-**Newton International Exchanges (PI):** Developing the synergies between Euclid and SKA (5,000 GBP).
+**Co-I for GCRF development grant:** *SA-DISCNET: A collaborative data science training network across southern Africa and southern UK* (92,745 GBP, 2018-2019).
+
+**PI for Newton International Exchanges:** *Developing the synergies between Euclid and SKA* (5,000 GBP, 2018).
