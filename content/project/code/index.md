@@ -1,7 +1,8 @@
 ---
 title: Code
-subtitle: Collection of open source codes and simulated data products for the
-  analysis of radio intensity mapping and optical galaxy datasets.
+subtitle: Here we list open source codes and simulated data products we have
+  developed for the analysis of radio intensity mapping and optical galaxy
+  datasets.
 date: 2021-08-18T06:58:55.201Z
 draft: false
 featured: false
