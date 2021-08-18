@@ -28,7 +28,7 @@ user_groups:
 highlight_name: false
 email: a.pourtsidou@qmul.ac.uk
 ---
-Alkistis Pourtsidou is a UKRI Future Leaders Fellow. Her research interests include:
+### Research Interests
 
 * Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
 * Theory and observations of large-scale structure with Euclid, MeerKAT/SKA, and LSST.
@@ -36,4 +36,16 @@ Alkistis Pourtsidou is a UKRI Future Leaders Fellow. Her research interests incl
 * Large scale structure tests of gravity and inflation.
 * Interacting dark energy models.
 
+### Publications
+
 [List of publications from INSPIRE database](https://inspirehep.net/literature?sort=mostrecent&size=25&page=1&q=find%20a%20pourtsidou%2C%20alkistis)
+
+### Funding
+
+**UKRI Future Leaders Fellowship (PI):** Exploring the Universe with radio and optical galaxy surveys (~1,500,000 GBP)
+
+**STFC grant (PI):** Neutral Hydrogen Intensity mapping with MeerKAT (~250,000 GBP).
+
+**GCRF development grant (Co-I):** SA-DISCNET: A collaborative data science training network across southern Africa and southern UK (~100,000 GBP).
+
+**Newton International Exchanges (PI):** Developing the synergies between Euclid and SKA (5,000 GBP).
