@@ -26,6 +26,9 @@ links:
   - url: https://github.com/nebblu/HyPk
     name: HyPk
     icon_pack: fas
+  - url: https://github.com/Alkistis/GC-Fish-nonlinear
+    name: GC-Fish-nonlinear
+    icon_pack: fas
 image:
   filename: intensitytools.png
   focal_point: Smart
@@ -44,3 +47,4 @@ Other codes which we have helped develop with external collaborators include:
 
 * [`ReACT-with-neutrinos`](https://github.com/nebblu/ReACT/tree/react_with_neutrinos) is a first implementation of massive neutrinos into the basic ReACT code.
 * [`HyPk`](https://github.com/nebblu/HyPk) is a code based on the Gaussian Streaming Model, to calculate the quasi non-linear redshift space matter power spectrum multipoles.
+* [`GC-Fish-nonlinear`](https://github.com/Alkistis/GC-Fish-nonlinear) is a Fisher Matrix code for nonlinear galaxy clustering using the TNS and EFTofLSS models.
