@@ -1,6 +1,6 @@
 ---
 title: Catherine Watkinson
-role: Postdoctoral Research Associate [completed 2021]
+role: Postdoctoral Researcher [completed 2021]
 avatar_filename: avatar.jpg
 social: []
 education:
