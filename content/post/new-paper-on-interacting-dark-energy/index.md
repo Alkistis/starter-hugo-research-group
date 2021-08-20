@@ -1,7 +1,7 @@
 ---
 title: New paper on interacting dark energy
 subtitle: "[arXiv pre-print](https://arxiv.org/abs/2106.13163)"
-date: 2021-08-18T07:20:58.906Z
+date: 2021-08-20T09:13:57.670Z
 summary: ""
 draft: false
 image:
