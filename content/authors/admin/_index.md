@@ -22,11 +22,11 @@ education:
     - course: MSc in Elementary Particle Theory
       institution: University of Durham
       year: 2007
+email: a.pourtsidou@qmul.ac.uk
 superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-email: a.pourtsidou@qmul.ac.uk
 ---
 ### Research Interests
 
@@ -51,3 +51,5 @@ email: a.pourtsidou@qmul.ac.uk
 **Co-I for GCRF development grant:** *SA-DISCNET: A collaborative data science training network across southern Africa and southern UK* (92,745 GBP, 2018-2019).
 
 **PI for Newton International Exchanges:** *Developing the synergies between Euclid and SKA* (5,000 GBP, 2018).
+
+![](ukrilogo.png)
