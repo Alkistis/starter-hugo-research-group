@@ -21,6 +21,6 @@ design:
   view: 3
   columns: "1"
   background:
-    color: "#000100"
-    text_color_light: true
+    color: "#000000"
+    text_color_light: false
 ---
