@@ -6,4 +6,4 @@ header:
   image: ""
 date: 2021-08-20T08:59:01.543Z
 ---
-Here you can read about our latest publications and other research news.
+Here you can find a summary of our latest publications and other research news. Click on a post to see more details!
