@@ -14,6 +14,6 @@ design:
     image_darken: 0
 hero_media: welcome.jpg
 ---
-Welcome to my website! I am a cosmologist working on the large-scale structure of the Universe. I am excited about radio intensity mapping surveys with instruments like [MeerKAT](https://www.sarao.ac.za/science/meerkat/about-meerkat/) and the [SKA](https://www.skatelescope.org) Observatory, as well as optical galaxy surveys like ESA's [Euclid satellite mission](https://www.euclid-ec.org), which will help us understand the fundamental laws of nature. Here you can see the latest news and publications by my research group, browse our publicly available codes, and more!
+Welcome to my website! I am a cosmologist working on the large-scale structure of the Universe. I am excited about radio intensity mapping surveys with instruments like [MeerKAT](https://www.sarao.ac.za/science/meerkat/about-meerkat/) and the [SKA](https://www.skatelescope.org) Observatory, as well as optical galaxy surveys like ESA's [Euclid satellite mission](https://www.euclid-ec.org). Here you can see the latest news and publications by my research group, browse our publicly available codes, and more!
 
 ![](welcome.jpg)
