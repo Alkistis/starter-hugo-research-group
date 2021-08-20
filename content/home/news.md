@@ -5,6 +5,7 @@ headless: true
 weight: 10
 title: Research News
 subtitle: null
+active: true
 content:
   count: 5
   filters:
@@ -19,4 +20,6 @@ content:
 design:
   view: 3
   columns: "1"
+  background:
+    color: "#000000"
 ---
