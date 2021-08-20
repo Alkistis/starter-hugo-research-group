@@ -1,14 +1,9 @@
 ---
-title: Latest News
-
-# View.
-#   1 = List
-#   2 = Compact
-#   3 = Card
+title: Research News
 view: 2
-
-# Optional header image (relative to `static/media/` folder).
 header:
   caption: ""
   image: ""
+date: 2021-08-20T08:59:01.543Z
 ---
+Here you can read about our latest publications and other research news.
