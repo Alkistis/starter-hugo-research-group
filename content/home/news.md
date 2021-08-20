@@ -3,7 +3,7 @@ widget: pages
 widget_id: latest-news
 headless: true
 weight: 10
-title: Latest News
+title: Research News
 subtitle: null
 content:
   count: 5
