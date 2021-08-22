@@ -6,7 +6,7 @@ subtitle: Here we list open source codes and simulated data products we have
 date: 2021-08-18T06:58:55.201Z
 draft: false
 featured: false
-external_link: https://github.com/IntensityTools
+# external_link: https://github.com/IntensityTools
 links:
   - url: https://github.com/IntensityTools/MultipoleExpansion
     icon_pack: fas
