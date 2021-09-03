@@ -15,10 +15,10 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Portsmouth
+email: ""
 superuser: false
 user_groups:
   - Researchers
 highlight_name: false
-email: ""
 ---
-Steven Cunnington is a postdoctoral research associate. He is working on radio intensity mapping theory, simulations, and parameter estimation analyses. He is heavily involved in MeerKAT and the SKA.
+Steven Cunnington is a postdoctoral research associate. He is working on radio intensity mapping theory, simulations, and parameter estimation analyses. He is heavily involved in MeerKAT and the SKA. More information on Steve's research can be found in his [Website](https://stevencunnington.wordpress.com/).
