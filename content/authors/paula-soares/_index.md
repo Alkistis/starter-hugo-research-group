@@ -6,7 +6,7 @@ social:
   - display:
       header: false
     link: https://github.com/paulassoares
-    icon_pack: ai
+    icon_pack: fab
     icon: github
 organizations:
   - name: Queen Mary University of London
