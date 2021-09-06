@@ -2,7 +2,12 @@
 title: Paula Soares
 role: PhD student
 avatar_filename: avatar.jpg
-social: []
+social:
+  - display:
+      header: false
+    link: https://github.com/paulassoares
+    icon_pack: ai
+    icon: github
 organizations:
   - name: Queen Mary University of London
 superuser: false
