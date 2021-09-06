@@ -2,7 +2,12 @@
 title: Pedro Carrilho
 role: Postdoctoral Researcher
 avatar_filename: avatar.png
-social: []
+social:
+  - display:
+      header: false
+    link: https://github.com/PedroCarrilho
+    icon_pack: fab
+    icon: github
 organizations:
   - name: Queen Mary University of London
 education:
