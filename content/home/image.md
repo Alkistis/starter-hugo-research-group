@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: whatsapp-image-2021-09-13-at-17.55.21.jpeg
+    image: screen-shot-2021-09-15-at-10.47.40.png
     image_darken: ""
     image_parallax: false
     image_position: center
