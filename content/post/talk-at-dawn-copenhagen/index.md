@@ -12,4 +12,4 @@ On September 9th I gave a talk at the[ Cosmic DAWN Center](https://dawn.nbi.ku.d
 
 
 
-![](featured.png)
+![](omegahi.png)
