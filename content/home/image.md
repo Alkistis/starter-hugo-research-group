@@ -4,7 +4,7 @@ advanced:
 widget: blank
 widget_id: welcome
 headless: true
-weight: 30
+weight: 50
 title: null
 subtitle: null
 active: true
