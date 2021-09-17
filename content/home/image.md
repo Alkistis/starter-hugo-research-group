@@ -11,7 +11,7 @@ active: true
 design:
   columns: "1"
   background:
-    image: group-photo.jpeg
+    image: group-photo.png
     image_darken: ""
     image_parallax: false
     image_position: center
