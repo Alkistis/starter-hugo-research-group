@@ -14,7 +14,7 @@ social:
     link: https://stevencunnington.wordpress.com
     icon: wordpress
 organizations:
-  - name: "Queen Mary University of London "
+  - name: University of Edinburgh
     url: ""
 education:
   courses:
