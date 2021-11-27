@@ -13,7 +13,7 @@ social:
     link: https://github.com/Alkistis
 organizations:
   - name: University of Edinburgh
-    url: ""
+    url: https://higgs.ph.ed.ac.uk/
 education:
   courses:
     - course: PhD in Physics
