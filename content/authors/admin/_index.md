@@ -18,10 +18,10 @@ education:
   courses:
     - course: PhD in Physics
       institution: University of Nottingham
-      year: 2011
+      year: ""
     - course: MSc in Elementary Particle Theory
       institution: University of Durham
-      year: 2007
+      year: ""
 email: apourtsi@ed.ac.uk
 superuser: true
 user_groups:
