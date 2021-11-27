@@ -6,4 +6,6 @@ social: []
 organizations:
   - name: University of Edinburgh
 superuser: false
+user_groups:
+  - Researchers
 ---
