@@ -5,7 +5,7 @@ avatar_filename: avatar.jpg
 bio: ""
 social: []
 organizations:
-  - name: Queen Mary University of London
+  - name: University of Edinburgh
 education:
   courses:
     - course: PhD in Physics
