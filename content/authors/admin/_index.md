@@ -12,8 +12,8 @@ social:
     icon_pack: fab
     link: https://github.com/Alkistis
 organizations:
-  - name: "Queen Mary University of London "
-    url: https://www.qmul.ac.uk/spa/people/academics/profiles/apourtsidou.html
+  - name: University of Edinburgh
+    url: ""
 education:
   courses:
     - course: PhD in Physics
@@ -22,7 +22,7 @@ education:
     - course: MSc in Elementary Particle Theory
       institution: University of Durham
       year: 2007
-email: a.pourtsidou@qmul.ac.uk
+email: apourtsi@ed.ac.uk
 superuser: true
 user_groups:
   - Researchers
