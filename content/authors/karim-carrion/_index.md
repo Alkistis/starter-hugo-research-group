@@ -1,7 +1,7 @@
 ---
 title: Karim Carrion
 role: PhD student
-avatar_filename: avatar.png
+avatar_filename: avatar.jpg
 social: []
 organizations:
   - name: UNAM
