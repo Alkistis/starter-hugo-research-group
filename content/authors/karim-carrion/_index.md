@@ -10,4 +10,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Karim Carrion is a PhD student in cosmology, supervised by Carlos Hidalgo at UNAM and having Alkistis Pourtsidou as a co-supervisor. He is working on modelling nonlinear scales for constraining exotic dark energy and modified gravity models using large-scale structure probes.
+Karim Carrion is a PhD student in cosmology, supervised by Carlos Hidalgo at UNAM and having Alkistis Pourtsidou as a co-supervisor. He is working on large-scale structure. His most recent [paper](https://arxiv.org/abs/2111.13598) developed the halo model reaction formalism for an exotic dark energy model.
