@@ -1,6 +1,6 @@
 ---
 title: Alkistis Pourtsidou
-role: UKRI Future Leaders Fellow and Reader in Cosmology
+role: Associate Professor (Reader) in Theoretical Astrophysics
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
