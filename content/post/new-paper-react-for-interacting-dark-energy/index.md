@@ -1,5 +1,6 @@
 ---
-title: "New paper: ReACT for Interacting Dark Energy "
+title: "On the road to percent accuracy VI: the nonlinear power spectrum for
+  interacting dark energy with baryonic feedback and massive neutrinos"
 date: 2021-11-30T05:30:02.485Z
 draft: false
 featured: false
