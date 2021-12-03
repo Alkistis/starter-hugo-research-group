@@ -5,6 +5,7 @@ avatar_filename: avatar.png
 social: []
 organizations:
   - name: University of Edinburgh
+    url: https://ifa.roe.ac.uk/
 superuser: false
 user_groups:
   - Researchers
