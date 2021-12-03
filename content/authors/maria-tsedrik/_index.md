@@ -1,7 +1,7 @@
 ---
 title: Maria Tsedrik
 role: PhD student
-avatar_filename: avatar.png
+avatar_filename: avatar.jpeg
 social: []
 organizations:
   - name: University of Edinburgh
