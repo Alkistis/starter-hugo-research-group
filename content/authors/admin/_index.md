@@ -13,7 +13,7 @@ social:
     link: https://github.com/Alkistis
 organizations:
   - name: University of Edinburgh
-    url: https://higgs.ph.ed.ac.uk/
+    url: https://www.ph.ed.ac.uk/people/alkistis-pourtsidou
 education:
   courses:
     - course: PhD in Physics
