@@ -49,7 +49,7 @@ Our public codes are:
 
 Other codes which we have helped develop with external collaborators include:
 
-* [CosmoPower](<* https://github.com/alessiospuriomancini/cosmopower>) is a library for Machine Learning - accelerated Bayesian inference. 
+* [CosmoPower](<* https://github.com/alessiospuriomancini/cosmopower>) is a library for Machine Learning - accelerated Bayesian inference. We recently used it in [this paper](https://arxiv.org/abs/2110.07587). 
 * [ReACT-with-neutrinos](https://github.com/nebblu/ReACT/tree/react_with_neutrinos) is a first implementation of massive neutrinos into the basic ReACT code.
 * [HyPk](https://github.com/nebblu/HyPk) is a code based on the Gaussian Streaming Model, to calculate the quasi non-linear redshift space matter power spectrum multipoles.
 * [GC-Fish-nonlinear](https://github.com/Alkistis/GC-Fish-nonlinear) is a Fisher Matrix code for nonlinear galaxy clustering using the TNS and EFTofLSS models.
