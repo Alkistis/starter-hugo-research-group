@@ -1,5 +1,6 @@
 ---
 title: "KiDS-1000 Cosmology: Interacting Dark Energy "
+subtitle: Paper accepted for publication in MNRAS Letters.
 date: 2021-10-22T04:58:55.340Z
 draft: false
 featured: false
