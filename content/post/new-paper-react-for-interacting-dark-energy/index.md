@@ -1,6 +1,7 @@
 ---
 title: "On the road to percent accuracy VI: the nonlinear power spectrum for
   interacting dark energy with baryonic feedback and massive neutrinos"
+subtitle: Accepted for publication in MNRAS
 date: 2021-11-30T05:30:02.485Z
 draft: false
 featured: false
