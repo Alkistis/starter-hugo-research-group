@@ -2,7 +2,12 @@
 title: Ben Bose
 role: Stephen Hawking Fellow
 avatar_filename: avatar.jpg
-social: []
+social:
+  - display:
+      header: false
+    link: https://github.com/nebblu
+    icon_pack: fab
+    icon: github
 organizations:
   - name: University of Edinburgh
 education:
