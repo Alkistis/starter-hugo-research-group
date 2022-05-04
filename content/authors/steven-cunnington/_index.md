@@ -1,6 +1,6 @@
 ---
 title: Steven Cunnington
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher [completed 2022]
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
