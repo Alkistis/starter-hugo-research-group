@@ -1,7 +1,7 @@
 ---
 title: Ben Bose
 role: Stephen Hawking Fellow
-avatar_filename: https://images.app.goo.gl/izd341GYzFDhdYyN7
+avatar_filename: avatar.jpg
 social: []
 organizations:
   - name: University of Edinburgh
