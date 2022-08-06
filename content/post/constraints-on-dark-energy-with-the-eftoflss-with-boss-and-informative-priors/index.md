@@ -1,6 +1,6 @@
 ---
-title: "Constraints on dark energy with the EFTofLSS with BOSS and informative
-  priors "
+title: Constraints on dark energy with the EFTofLSS with BOSS, and a note on
+  informative priors
 subtitle: "https://arxiv.org/abs/2207.14784 "
 date: 2022-08-06T08:21:14.189Z
 draft: false
