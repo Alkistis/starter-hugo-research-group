@@ -1,6 +1,6 @@
 ---
 title: Pedro Carrilho
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher [completed 2022]
 avatar_filename: avatar.png
 social:
   - display:
