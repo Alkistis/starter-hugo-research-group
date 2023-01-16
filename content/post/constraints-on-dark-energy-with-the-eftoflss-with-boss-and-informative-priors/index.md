@@ -1,7 +1,7 @@
 ---
 title: Constraints on dark energy with the EFTofLSS with BOSS, and a note on
   informative priors
-subtitle: https://arxiv.org/abs/2207.14784, accepted for publication in MNRAS
+subtitle: https://arxiv.org/abs/2207.14784, accepted for publication in JCAP
 date: 2022-08-06T08:21:14.189Z
 draft: false
 featured: false
