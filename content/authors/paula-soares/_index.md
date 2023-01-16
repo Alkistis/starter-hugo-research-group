@@ -1,6 +1,6 @@
 ---
 title: Paula Soares
-role: PhD student
+role: PhD student [completed 2022]
 avatar_filename: avatar.jpg
 social:
   - display:
