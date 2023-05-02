@@ -1,6 +1,6 @@
 ---
 title: Chiara Moretti
-role: Postdoctoral Researcher
+role: Postdoctoral Researcher [completed 2023]
 avatar_filename: avatar.jpg
 bio: ""
 social: []
