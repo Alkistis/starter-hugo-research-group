@@ -42,7 +42,7 @@ highlight_name: false
 
 ### Funding
 
-**PI for UKRI Future Leaders Fellowship:** *Exploring the Universe with radio and optical galaxy surveys* (1,468,286 GBP, 2019-2023)
+**PI for UKRI Future Leaders Fellowship:** *Exploring the Universe with radio and optical galaxy surveys* (Phase 1: 1,468,286 GBP, 2019-2023; Phase 2: 3-year renewal, approx. 700,000 GBP)
 
 **PI for STFC grant:** *Neutral Hydrogen Intensity mapping with MeerKAT* (approx. 258,000 GBP, 2019-2021)
 
