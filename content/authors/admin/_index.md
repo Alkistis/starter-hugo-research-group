@@ -30,7 +30,7 @@ highlight_name: false
 ---
 ### Research Interests
 
-* Theory and observations of large-scale structure with optical galaxy surveys.
+* Theory and observations of large-scale structure.
 * Modelling non-linear scales for galaxy clustering and weak gravitational lensing.
 * Tests of dark energy, gravity and inflation with combined large-scale structure probes.
 * Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
