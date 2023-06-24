@@ -1,6 +1,6 @@
 ---
 title: Alkistis Pourtsidou
-role: Associate Professor (Reader) in Theoretical Astrophysics
+role: Professor in Theoretical Astrophysics
 avatar_filename: avatar.jpg
 bio: ""
 interests: []
@@ -30,10 +30,10 @@ highlight_name: false
 ---
 ### Research Interests
 
-* Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
 * Theory and observations of large-scale structure with optical galaxy surveys.
 * Modelling non-linear scales for galaxy clustering and weak gravitational lensing.
 * Tests of dark energy, gravity and inflation with combined large-scale structure probes.
+* Cosmology with 21cm intensity mapping: theory, simulations, and data analysis.
 * Interacting dark energy models.
 
 ### Publications
