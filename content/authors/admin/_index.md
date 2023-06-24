@@ -44,7 +44,7 @@ highlight_name: false
 
 **PI for UKRI Future Leaders Fellowship:** *Exploring the Universe with radio and optical galaxy surveys* (1,468,286 GBP, 2019-2023)
 
-**PI for STFC grant:** *Neutral Hydrogen Intensity mapping with MeerKAT* (258,000 GBP, 2019-2021).
+**PI for STFC grant:** *Neutral Hydrogen Intensity mapping with MeerKAT* (approx. 258,000 GBP, 2019-2021)
 
 **Co-I for STFC departmental consolidated grant:** *Astronomy Research at Queen Mary 2020-2023; Project: Constraints on Dark Energy and Modified Gravity using Non-linear Structures in Cosmology (awarded 5% FTE and 3-year PDRA support, approx. 350,000 GBP)*.
 
