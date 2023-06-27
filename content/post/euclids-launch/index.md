@@ -4,7 +4,7 @@ date: 2023-06-27T14:47:54.293Z
 draft: false
 featured: false
 image:
-  filename: " https://twitter.com/AlkistisPou/photo"
+  filename: featured.jpg
   focal_point: Smart
   preview_only: false
 ---
