@@ -1,6 +1,6 @@
 ---
 title: Alkistis Pourtsidou
-role: Professor in Theoretical Astrophysics
+role: Professor of Theoretical Astrophysics
 avatar_filename: avatar.png
 bio: ""
 interests: []
