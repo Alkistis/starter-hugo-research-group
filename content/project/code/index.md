@@ -41,6 +41,7 @@ Our group is committed to transparency and reproducibility in science. We try to
 
 Our public codes are:
 
+* [CLASS-IDE](https://github.com/Alkistis/class_IDE) contains the CLASS code for the "pure momentum transfer" coupled quintessence model.
 * [ReACT-IDE](https://github.com/PedroCarrilho/ReACT/tree/react_with_interact_baryons) is an implementation of the Dark Scattering interacting dark energy model into the basic ReACT code, including massive neutrinos and baryonic feedback
 * [Multipole Expansion](https://github.com/IntensityTools/MultipoleExpansion) is a code for power spectrum analyses for neutral hydrogen intensity mapping experiments
 * [IM-Fish](https://github.com/IntensityTools/IM-Fish) is a code for Fisher Matrix forecasts for neutral hydrogen intensity mapping experiments and their cross-correlation with optical galaxy surveys
