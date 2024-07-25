@@ -32,6 +32,9 @@ links:
   - url: https://github.com/PedroCarrilho/ReACT/tree/react_with_interact_baryons
     name: ReACT-IDE
     icon_pack: fas
+  - url: https://github.com/MariaTsedrik/HMcode2020Emu
+    name: HMcode2020Emu
+    icon_pack: fas
 image:
   filename: intensitytools.png
   focal_point: Smart
@@ -41,6 +44,7 @@ Our group is committed to transparency and reproducibility in science. We try to
 
 Our public codes are:
 
+* [H﻿Mcode2020Emu](https://github.com/MariaTsedrik/HMcode2020Emu) is an HMcode2020 emulator.
 * [CLASS-IDE](https://github.com/Alkistis/class_IDE) contains the CLASS code for the "pure momentum transfer" coupled quintessence model.
 * [ReACT-IDE](https://github.com/PedroCarrilho/ReACT/tree/react_with_interact_baryons) is an implementation of the Dark Scattering interacting dark energy model into the basic ReACT code, including massive neutrinos and baryonic feedback
 * [Multipole Expansion](https://github.com/IntensityTools/MultipoleExpansion) is a code for power spectrum analyses for neutral hydrogen intensity mapping experiments
