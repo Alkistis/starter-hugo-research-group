@@ -1,5 +1,5 @@
 ---
-title: HMcode emulator by Maria Tsedrik
+title: HMcode2020 emulator by Maria Tsedrik
 date: 2024-07-25T11:00:43.894Z
 draft: false
 featured: false
