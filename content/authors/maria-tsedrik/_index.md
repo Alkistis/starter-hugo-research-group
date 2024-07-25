@@ -10,4 +10,4 @@ superuser: false
 user_groups:
   - Researchers
 ---
-Maria Tsedrik is a PhD student in cosmology. She is working on probing dark energy and modified gravity with combined large scale structure probes. An example of her work is [here](https://arxiv.org/abs/2404.11508).
+Maria Tsedrik is a PhD student in cosmology. She is working on dark energy and modified gravity with combined large scale structure probes. An example of her work is [here](https://arxiv.org/abs/2404.11508).
