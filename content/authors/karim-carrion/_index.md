@@ -1,6 +1,6 @@
 ---
 title: Karim Carrion
-role: PhD student
+role: PhD student [completed 2025]
 avatar_filename: avatar.jpg
 social: []
 organizations:
