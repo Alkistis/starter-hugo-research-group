@@ -1,6 +1,6 @@
 ---
 title: Maria Tsedrik
-role: PhD student
+role: PhD student [completed 2025]
 avatar_filename: avatar.jpeg
 social: []
 organizations:
