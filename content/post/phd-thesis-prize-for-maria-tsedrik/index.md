@@ -8,4 +8,4 @@ image:
   focal_point: Smart
   preview_only: false
 ---
-Congratulations to Maria Tsedrik for the very well deserved Prize for the *Best PhD thesis in the Institute of Astronomy* at the University of Edinburgh.
+Congratulations to Maria Tsedrik for the very well deserved Prize for the *Best PhD [thesis](https://era.ed.ac.uk/handle/1842/43410) in the Institute of Astronomy* at the University of Edinburgh.
